@@ -1,2 +1,4 @@
-# hello-world
-Initial Repository in GIT HUB
+
+Joseph L. Davis
+IT World for 41 years.
+Quite a ride.
